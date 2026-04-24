@@ -216,4 +216,3 @@ Para que el login funcione, sigue estos pasos:
 
 ---
 
-*Proyecto desarrollado para la asignatura Taller de Plataformas Web – AIEP.*
